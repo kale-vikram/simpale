@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    display: inline;
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(back.jpg);
+    
+   
+
+}
+#pp{
+    vertical-align: 53px;
+    margin-left: 65px;
+}
+#num{
+    margin-right: 10px;
+}
+
+
